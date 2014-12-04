@@ -2,8 +2,8 @@
 
 An Ruboty Handler + Actions to output itamae plugin search result.
 
-[Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
-[Itamae](https://github.com/ryotarai/itamae) is Simple and lightweight configuration management tool inspired by Chef.
+* [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
+* [Itamae](https://github.com/ryotarai/itamae) is Simple and lightweight configuration management tool inspired by Chef.
 
 ## Installation
 
