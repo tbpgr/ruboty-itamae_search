@@ -1,6 +1,6 @@
 # Ruboty::ItamaeSearch
 
-An Ruboty Handler + Actions to output itamae plugin search result.
+A Ruboty Handler + Actions to output itamae plugin search result.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-itamae_search.svg)](http://badge.fury.io/rb/ruboty-itamae_search)
 
